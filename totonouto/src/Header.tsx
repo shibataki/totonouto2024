@@ -93,10 +93,10 @@ export default function Header() {
 								</ListItem>
 							))}
 							<ListItem disablePadding>
-								<Link href='SaunaWords' sx={{ textDecoration: 'none' }}>
+								<Link href='' sx={{ textDecoration: 'none' }}>
 									<ListItemButton>
 										<Typography variant='h2' sx={{ fontSize: 20 }}>
-											サウナ用語集
+											店主のブログ（準備中）
 										</Typography>
 									</ListItemButton>
 								</Link>
